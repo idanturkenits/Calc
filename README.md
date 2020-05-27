@@ -1,1 +1,1 @@
-# Calc
+# This is a calculator app. 
